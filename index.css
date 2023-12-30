@@ -1,16 +1,21 @@
 .card {
-    margin-bottom: 15px;
-    padding: 10px;
+    margin-bottom: 20px;
+    padding: 15px;
     height: 475px;
-    background-color: gainsboro;
+    background-color: #3498db;
+    color: #fff;
+    border: 2px solid #2980b9;
+    border-radius: 8px;
 }
 
 .card-footer {
-    background: transparent;
-    border-top: 0px;
+    background-color: whitesmoke;
+    border-top: 1px solid #3498db;
+    padding: 8px;
 }
 
 body {
-    background-color: snow;
-    font-family: monospace;
+    background-color: lightgreen;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
 }
